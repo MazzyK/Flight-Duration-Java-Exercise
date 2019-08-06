@@ -1,3 +1,9 @@
+/*************************************************************************
+* Author: MazzyK
+* Description: a programme that calculates the arrival time of a flight 
+* in 12-hour and 24-hour format given the departure time and flight  
+*duration as input by the user.
+*************************************************************************/
 import java.util.Scanner;
 
 public class flight {
